@@ -3,3 +3,17 @@ global: válido para todos os repositórios do usuário atualmente logado no sis
 system: válido para toda a instalação Git
 
 image.png
+
+Versionamento semantico:
+-major
+  ocorre quebra de retrocompatbilidade
+-minor
+  correção de bug, 
+-patch
+  correção de bug, sem adição de funcionalidade, sem quebra de retrocompatbilidade
+
+
+  implementar funcionalidade de subtração em py e tronar permanente
+  implementar teste subtração tornar permanente
+  implementar funcionalidade multiplicação tornar permanente
+  
