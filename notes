@@ -1,0 +1,4 @@
+local: vállido somente para o repositório atual
+global: válido para todos os repositórios do usuário atualmente logado no sistema operacional
+system: válido para toda a instalação Gits
+
